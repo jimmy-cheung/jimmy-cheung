@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://imjimmy.me">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,30:FCEE09,65:00F0FF,100:FF2A6D&height=220&section=header&text=Jimmy%20Cheung&fontSize=54&fontColor=FCEE09&fontAlignY=38&animation=fadeIn&stroke=FCEE09&strokeWidth=2" alt="Jimmy Cheung" />
+  <img src="assets/profile-header.svg" width="100%" alt="Jimmy Cheung" />
 </a>
 
 <h3>Developer · Entrepreneur · Builder</h3>
@@ -14,7 +14,7 @@
   <a href="https://instagram.com/catchjch">Instagram</a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=FCEE09&background=09090B&center=true&vCenter=true&width=520&lines=learning+and+building;shipping+ideas+into+products;putting+a+dent+in+the+universe" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=900&color=09090B&background=FCEE09&center=true&vCenter=true&width=520&lines=learning+and+building;shipping+ideas+into+products;putting+a+dent+in+the+universe" alt="Animated introduction" />
 
 </div>
 
@@ -48,21 +48,21 @@ If you’re building something interesting, I’d love to hear from you.
 <div align="center">
 
 <a href="https://imjimmy.me">
-  <img src="https://img.shields.io/badge/Visit_my_website-FCEE09?style=for-the-badge&logo=safari&logoColor=09090B" alt="Visit my website" />
+  <img src="https://img.shields.io/badge/Visit_my_website-09090B?style=for-the-badge&logo=safari&logoColor=FCEE09&labelColor=09090B" alt="Visit my website" />
 </a>
 &nbsp;
 <a href="mailto:jimmyyycheung@gamil.com">
-  <img src="https://img.shields.io/badge/Email_me-FF2A6D?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email me" />
+  <img src="https://img.shields.io/badge/Email_me-FCEE09?style=for-the-badge&logo=gmail&logoColor=09090B" alt="Email me" />
 </a>
 
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=jimmy-cheung&style=flat-square&color=00F0FF&label=profile+views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=jimmy-cheung&style=flat-square&color=FCEE09&label=profile+views" alt="Profile views" />
 
 <br />
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:00F0FF,100:FF2A6D&height=100&section=footer" alt="" />
+<img src="assets/profile-footer.svg" width="100%" alt="" />
 
 </div>
