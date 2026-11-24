@@ -28,6 +28,7 @@
 - 🧠 **Philosophy:** I believe technology must be deeply human. I build at the intersection of **silicon and interface**—understanding the machine from the raw memory up, while crafting products that solve real human friction.
 - 🚀 **Current Mission:** Pushing my technical limits to ship something real for the **2027 Swift Student Challenge**.
 - 🎨 **Aesthetics:** Inspired by the extreme minimalism of Apple, the structural perfection of Bach, and the raw passion of Van Gogh.
+- ⚽️ **Hobbies:** i love playing video games and soccer. Hala Madrid!
 - 📚 **Learning:** Diving deep into *Patterson & Hennessy (Computer Organization and Design)* and mastering C++ algorithms.
 
 <br/>
@@ -52,5 +53,5 @@
 <br/>
 
 <div align="center">
-  <i>"Putting a dent in the universe."</i>
+  <i>Putting a dent in the universe.</i>
 </div>
